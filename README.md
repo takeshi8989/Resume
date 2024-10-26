@@ -1,6 +1,5 @@
-# Resume
-
 If you have time, please have a look at this as well! [More About Me](./AboutMe.md)
 
-[Download](https://github.com/user-attachments/files/17252661/Resume.pdf)
-![Resume](https://github.com/user-attachments/assets/22991871-6a34-4658-9b0b-17c5968d9318)
+[Download Resume](https://github.com/user-attachments/files/17531657/Takeshi_Hashimoto_Resume.pdf)
+
+![Resume](https://github.com/user-attachments/assets/28bdb45b-6917-467e-a9ca-d5fee573a552)
